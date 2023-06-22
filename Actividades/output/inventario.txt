@@ -1,0 +1,4 @@
+Nombre: Mouse
+Precio: 20
+Stock: 20
+
